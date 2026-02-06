@@ -1,7 +1,7 @@
 # Global-Country-emission-modelling
 Global CO₂ and GHG emissions analysis using historical country-level data. Includes data cleaning, reporting coverage analysis, annual global aggregation, naïve baseline forecasting, and ARIMA (1,1,1) time-series modeling. Forecasts are evaluated using MAE and RMSE.
 This project analyzes historical global CO₂ and total greenhouse gas (GHG) emissions using country-level data and applies time-series forecasting (ARIMA) to model future emission trends.
-The analysis emphasizes data quality, transparency, and proper time-series evaluation, making it suitable for climate data studies and forecasting demonstrations.
+The analysis emphasizes data quality, transparency, and proper time-series evaluation, making it suitable for climate data studies and forecasting demonstrations.<br>
 📂 Dataset
 Source: Our World in Data (OWID)
 Dataset: CO₂ and Greenhouse Gas Emissions
